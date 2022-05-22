@@ -1,0 +1,116 @@
+# Route 5 (41) - Route 4 (40)
+41,North,0,40,South,0
+# Route 5 (41) - Route 6 (45)
+41,South,6,45,North,0
+# Route 6 (44) - Route 1 (5)
+44,South,43,5,North,0
+# Safari Zone (66) - Route 1 (5)
+66,North,18,5,South,0
+# Cedolan City (7) - Route 1 (5)
+7,South,0,5,North,2
+# Lappet Town (2) - Route 1 (5)
+2,North,0,5,South,4
+# Cedolan City (7) - Route 6 (44)
+7,West,5,44,East,0
+# Lappet Town (2) - Safari Zone (66)
+2,West,0,66,East,0
+# Route 8 (69) - Safari Zone (66)
+69,North,0,66,South,10
+# Ingido Plateau (35) - Route 4 (39)
+35,West,11,39,East,0
+# Cedolan City (7) - Lerucean Town (23)
+7,East,0,23,West,78
+# Route 3 (31) - Lerucean Town (23)
+31,South,32,23,North,0
+# Route 2 (21) - Lerucean Town (23)
+21,East,0,23,West,1
+# Route 7 (47) - Cedolan City (7)
+47,West,0,7,East,0
+# Route 2 (21) - Cedolan City (7)
+21,South,0,7,North,21
+# Route 3 (31) - Ingido Plateau (35)
+31,West,0,35,East,10
+# Route 8 (69) - Lappet Town (2)
+69,North,12,2,South,0
+# Route 7 (47) - Battle Frontier (52)
+47,East,8,52,West,0
+# Route 2 (21) - Route 7 (47)
+21,East,77,47,West,0
+# Mt Remarkable Ranger Station (95) - Mt Remarkable Base Camp (93)
+95,West,34,93,East,0
+# Path to Mt Remarkable (91) - Mt Remarkable Base Camp (93)
+91,North,19,93,South,0
+# Mt Remarkable (96) - Mt Remarkable Summit (94)
+96,North,7,94,South,0
+# Princes Highway to Pt Augusta (90) - Princes Highway North (89)
+90,North,0,89,South,0
+# Path to Mt Remarkable (91) - Princes Highway North (89)
+91,East,0,89,West,125
+# Princes Highway South (97) - Princes Highway North (89)
+97,South,0,89,North,0
+# Mt Remarkable (96) - Mt Remarkable Ranger Station (95)
+96,East,73,95,West,0
+# Path to Mt Remarkable (91) - Princes Highway to Pt Augusta (90)
+91,East,25,90,West,0
+# Princes Highway South (97) - Path to Mt Remarkable (91)
+97,West,275,91,East,0
+# Crystal Brook (101) - Goyder Highway to Crystal Brook (100)
+101,South,8,100,North,0
+# Crystal Brook Town Centre (102) - Crystal Brook (101)
+102,South,0,101,North,0
+# Wilkins Highway West (111) - Gladstone (110)
+111,South,0,110,North,0
+# Caltowie (112) - Gladstone (110)
+112,West,85,110,East,0
+# Caltowie (112) - Wilkins Highway West (111)
+112,West,5,111,East,0
+# Bundaleer Forest (124) - Bundaleer Forest Entry (123)
+124,South,1,123,North,0
+# RM Williams Highway North (122) - RM Williams Highway South (126)
+122,South,0,126,North,0
+# Jamestown (118) - Wilkins Highway East (115)
+118,West,12,115,East,0
+# Jamestown (118) - RM Williams Highway North (122)
+118,South,3,122,North,0
+# Clare (129) - RM Williams Highway (128)
+129,West,6,128,East,0
+# Good Catholic Girl Winery (130) - Clare (129)
+130,South,0,129,North,24
+# Horrocks Highway (131) - Clare (129)
+131,North,0,129,South,20
+# Wenhams Road (119) - Jamestown (118)
+119,South,0,118,North,38
+# Pt Pirie Skate Park (84) - Nyrstar (78)
+84,North,15,78,South,0
+# The Terrace (85) - Nyrstar (78)
+85,East,40,78,West,0
+# The Stack (80) - Nyrstar (78)
+80,South,0,78,North,26
+# Bridge to Nowhere (43) - Nyrstar (78)
+43,North,56,78,South,0
+# Pt Pirie (32) - Nyrstar (78)
+32,East,0,78,West,0
+# Road to Princes Highway (87) - Pt Pirie Skate Park (84)
+87,South,95,84,North,0
+# Bridge to Nowhere (43) - Pt Pirie Skate Park (84)
+43,East,0,84,West,0
+# Pt Pirie (32) - Pt Pirie Skate Park (84)
+32,South,35,84,North,0
+# Road to Princes Highway (87) - The Terrace (85)
+87,North,50,85,South,0
+# Pt Pirie (32) - The Terrace (85)
+32,North,0,85,South,10
+# Road to Princes Highway (87) - The Stack (80)
+87,North,136,80,South,0
+# Pt Pirie (32) - The Stack (80)
+32,North,76,80,South,0
+# Bridge to Nowhere (43) - Road to Princes Highway (87)
+43,North,0,87,South,54
+# Pt Pirie (32) - Road to Princes Highway (87)
+32,West,0,87,East,0
+# Pt Pirie (32) - Bridge to Nowhere (43)
+32,South,0,43,North,6
+# Melbourne (158) - Albert Park (159)
+158,South,23,159,North,0
+# Melbourne (158) - Port Melbourne (157)
+158,West,0,157,East,3
