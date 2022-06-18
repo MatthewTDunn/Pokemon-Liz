@@ -13,7 +13,7 @@ development framework as a base, I created a storyline based on her friends/fami
 ![alt text](https://github.com/Pyr1te/Pokemon-Liz/blob/main/Pokemon-Liz-GIF.gif?raw=true)
 
 
-To further enrich the story and personalise the game, I developed and modified a multitude of ruby scripts to bring this additional functionality some of which have been 
+To further enrich the story and personalise the game, I developed and modified a multitude of ruby scripts some of which have been 
 outlined below. 
 <ul>
   <li>Developed a <a target="_blank" href="https://github.com/Pyr1te/Pokemon-Liz/blob/main/Scripts/MD_PokeGallery.rb">photo gallery</a> that can be accessed through player menu & builds up throughout the game and NPC interactions.</li>
