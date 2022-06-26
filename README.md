@@ -23,7 +23,7 @@ outlined below.
 
 ## How It's Made:
 
-Employing the <a href="https://www.rpgmakerweb.com/products/rpg-maker-xp">RPGMaker XP</a> development engine and <a target="_blank" href="https://reliccastle.com/essentials/">Pokemon Essentials</a> 
+Employing the <a href="https://www.rpgmakerweb.com/products/rpg-maker-xp">RPGM XP</a> development engine and <a target="_blank" href="https://reliccastle.com/essentials/">Pokemon Essentials</a> 
 framework, this game was created in approximately 5 months. With the benefit of a comprehensive framework underpinning the basic functionality of the game, I was able
 to focus on ruby extensions, personalising code specific to the story being told and town/character design.
 <br />
